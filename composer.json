@@ -1,7 +1,7 @@
 {
     "name": "daji/hello",
     "descripton":"echo hello world",
-    "license": "MIT License",
+    "license": "proprietary",
     "authors": [
         {
             "name": "liuqingji",
