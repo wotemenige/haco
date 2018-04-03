@@ -1,0 +1,18 @@
+{
+    "name": "liuqingji/hello",
+    "descripton":"echo hello world",
+    "license": "MIT License",
+    "authors": [
+        {
+            "name": "liuqingji",
+            "email": "1154472276@qq.com"
+        }
+    ],
+    "minimum-stability":"dev",
+    "require": {},
+    "autoload":{
+    	"psr-4":{
+    		"Hello\\":"src/"
+    	}
+    }
+}
